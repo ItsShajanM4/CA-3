@@ -5,7 +5,7 @@ The printNumbers file contains C programming language code to print numbers from
 
 To run the code you can copy and paste in an online IDE that runs c programming language or use an IDE software.
 
-__**Initial Code**__
+**Initial Code**
 // Print numbers from 1 to 10
 #include <stdio.h>
 
@@ -20,9 +20,8 @@ int main() {
 }
 
 
-__**New Code**__
+**New Code**
 // Print numbers from 2 to 11
-// Print numbers from 1 to 10
 #include <stdio.h>
 
 int main() {
