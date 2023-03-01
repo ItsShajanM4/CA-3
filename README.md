@@ -7,6 +7,7 @@ To run the code you can copy and paste in an online IDE that runs c programming 
 
 **Initial Code**
 // Print numbers from 1 to 10
+
 #include <stdio.h>
 
 int main() {
@@ -22,6 +23,7 @@ int main() {
 
 **New Code**
 // Print numbers from 2 to 11
+
 #include <stdio.h>
 
 int main() {
